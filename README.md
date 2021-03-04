@@ -16,3 +16,5 @@ This repo performs several functions
 - Collects data from openweather api and stores it to the db _(celery)_
 - Serves data via an api to mobile clients _(Django rest framework)_
 - Handles SMS and USSD requests _(USSD Airflow)_
+
+NB: Take a look at the report
